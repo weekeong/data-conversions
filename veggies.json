@@ -1,0 +1,30 @@
+[
+    {
+        "length": "8", 
+        "name": "eggplant"
+    }, 
+    {
+        "length": "6", 
+        "name": "tomato"
+    }, 
+    {
+        "length": "4", 
+        "name": "corn"
+    }, 
+    {
+        "length": "6", 
+        "name": "potato"
+    }, 
+    {
+        "length": "6", 
+        "name": "carrot"
+    }, 
+    {
+        "length": "4", 
+        "name": "kale"
+    }, 
+    {
+        "length": "8", 
+        "name": "broccoli"
+    }
+]
